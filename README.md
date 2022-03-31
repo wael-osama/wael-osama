@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wael-maker
+- 👋 Hi, I’m @wael-osama
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on front end
